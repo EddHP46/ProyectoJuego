@@ -1,0 +1,6 @@
+/* Este código CSS establece el margen del elemento del cuerpo en 0 y establece el color de fondo en
+negro (#000). */
+body{
+    margin: 0;
+    background: #000;
+}
